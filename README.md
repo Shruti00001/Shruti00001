@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Shruti</h1>
-<h3 align="center">A passionate Data Analyst from Delhi, India</h3>
+<h3 align="center">A data analyst passionate about uncovering the stories hidden in data.</h3>
 
 <p align="center">
-  I'm on a mission to transform complex datasets into actionable insights. With expertise in Python, SQL, and Power BI, I love building intuitive dashboards and uncovering hidden trends that drive business growth. Let's connect and build something great!
+  I transform complex datasets into clear, actionable insights and build powerful dashboards that drive business strategy. My expertise spans Python, SQL, and data visualization tools like Power BI and Tableau. Let's build a data-driven future, together.
 </p>
 
 ---
@@ -10,7 +10,7 @@
 <h2 align="center">🛠️ My Toolkit</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql,numpy,pandas,tableau,powerbi,excel" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql,numpy,pandas,tableau,powerbi,excel" alt="Skills and Tools"/>
 </div>
 
 ---
