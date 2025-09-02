@@ -7,18 +7,10 @@
 
 ---
 
-<h2 align="center">💻 Languages</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql" />
-</div>
-
----
-
 <h2 align="center">🛠️ My Toolkit</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,tableau,powerbi,excel" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql,numpy,pandas,tableau,powerbi,excel" alt="My Skills"/>
 </div>
 
 ---
