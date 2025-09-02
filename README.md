@@ -7,31 +7,26 @@
 
 ---
 
-<h2 align="center">🛠️ My Toolkit</h2>
+<h2 align="center">💻 Languages</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,excel,tableau,aws" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,scikitlearn" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql" />
 </div>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">🛠️ My Toolkit</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shruti00001&show_icons=true&theme=dark" alt="Shruti's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti00001&layout=compact&theme=dark" alt="Shruti's Top Languages" />
-</p>
-
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,tableau,powerbi,excel" />
+</div>
 
 ---
 
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/shrutimishra011/)" target="_blank">
+  <a href="https://www.linkedin.com/in/shrutimishra011/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
