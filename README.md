@@ -15,7 +15,7 @@ Here are some of the technologies I work with:
 ---
 
 ### 📈 My GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruti00001 &show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=Shruti00001&show_icons=true&theme=dark
 
 ---
 
