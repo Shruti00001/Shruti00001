@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Shruti Mishra</h1>
 <h3 align="center">Data Analyst | Turning Raw Data into Actionable Business Insights</h3>
 
@@ -60,4 +62,4 @@
 
 ---
 
-📬 **Let's Connect:** Reach out via [LinkedIn](www.linkedin.com/in/shrutimishra-dataanalyst) or send an email to `shrutinds800@gmail.com`.
+📬 **Let's Connect:** Reach out via [LinkedIn](https://www.linkedin.com/in/shrutimishra-dataanalyst) or send an email to `shrutinds800@gmail.com`.
