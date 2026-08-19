@@ -52,25 +52,27 @@
 * 📈 **[E-commerce Sales Reporting Survey (Inspired by Amazon)](https://github.com/Shruti00001/E-commerce-Sales-Dashboard-Inspired-by-Amazon)**  
   *Analyzed reporting survey responses from 1,200 respondents to uncover reporting challenges, tool usage across regions, and monthly reporting bandwidth.*  
   <br/>
-  <img src="./assets/amazon-survey.png" alt="Amazon Sales Reporting Survey Dashboard" width="100%" />
+  <img width="2393" height="1220" alt="Screenshot 2025-09-18 194231" src="https://github.com/user-attachments/assets/ec481392-cdfd-4648-9fc9-bad84d29e377" />
 
 * 📢 **[AdPulse: Marketing Campaign Performance Tracker](https://github.com/Shruti00001/AdPulse-Multi-Channel-Marketing-ROI-Tracker)**  
   *Multi-channel marketing ROI tracker evaluating ₹185M revenue generated against ₹124M ad spend across Display, Social Media, Email, Search, and Influencer channels.*  
   <br/>
-  <img src="./assets/adpulse.png" alt="AdPulse Campaign Performance Dashboard" width="100%" />
+<img width="2357" height="1238" alt="Screenshot 2025-09-18 172218" src="https://github.com/user-attachments/assets/8d90c8f2-c302-4fff-be32-377c1b9ddedb" />
+
 
 * 🎵 **[Music Trends & Popularity Analysis](https://github.com/Shruti00001/Music-Trends)**  
   *Exploratory data analysis across 9,800+ track entries to evaluate genre popularity distributions, audio tempos, and streaming platform benchmarks.*  
   <br/>
-  <img src="./assets/music-trends.png" alt="Music Trends Dashboard" width="100%" />
-
+  
 * 🔍 **[Product Research & Excel Structuring](https://github.com/Shruti00001/Product-research-and-Excel-structuring)**  
   *Cross-platform market analysis comparing brand performance, ratings, and price benchmarks across Amazon, Flipkart, Myntra, and Nykaa.*  
   <br/>
-  <img src="./assets/product-research.png" alt="Product Research Dashboard" width="100%" />
+<img width="2418" height="1335" alt="Screenshot 2026-08-19 154914" src="https://github.com/user-attachments/assets/246911b2-b66e-4d15-ab6c-b60735039807" />
+
 
 * 📉 **[Customer Churn Prediction](https://github.com/Shruti00001/Customer-churn-prediction)**  
   *Predictive analytics project built with Python and Pandas to analyze user churn drivers and retention opportunities.*
+<img width="1276" height="955" alt="Screenshot 2026-08-19 154834" src="https://github.com/user-attachments/assets/1adb0d09-3d4b-4327-ac07-74008bc3e06b" />
 
 * 🎓 **[Academic Data Pipeline](https://github.com/Shruti00001/Academic-data-pipeline)**  
   *Automated data pipeline designed to clean, transform, and structure academic and institutional data for reporting.*
