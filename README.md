@@ -60,4 +60,4 @@
 
 ---
 
-📬 **Let's Connect:** Reach out via [LinkedIn](https://www.linkedin.com/in/shrutimishra011) or send an email to `shrutinds800@gmail.com`.
+📬 **Let's Connect:** Reach out via [LinkedIn](www.linkedin.com/in/shrutimishra-dataanalyst) or send an email to `shrutinds800@gmail.com`.
