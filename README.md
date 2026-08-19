@@ -63,7 +63,8 @@
 * 🎵 **[Music Trends & Popularity Analysis](https://github.com/Shruti00001/Music-Trends)**  
   *Exploratory data analysis across 9,800+ track entries to evaluate genre popularity distributions, audio tempos, and streaming platform benchmarks.*  
   <br/>
-  
+  <img width="2176" height="1271" alt="Screenshot 2025-09-18 214128" src="https://github.com/user-attachments/assets/0854f5d4-895c-4c9f-b3e1-c60154b6ad9e" />
+
 * 🔍 **[Product Research & Excel Structuring](https://github.com/Shruti00001/Product-research-and-Excel-structuring)**  
   *Cross-platform market analysis comparing brand performance, ratings, and price benchmarks across Amazon, Flipkart, Myntra, and Nykaa.*  
   <br/>
