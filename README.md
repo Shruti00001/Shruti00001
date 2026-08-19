@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Turning Raw Data into Actionable Business Insights</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shrutimishra011" target="_blank">
+  <a href="https://www.linkedin.com/in/shrutimishra-dataanalyst" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shrutinds800@gmail.com">
