@@ -52,22 +52,22 @@
 * 📈 **[E-commerce Sales Reporting Survey (Inspired by Amazon)](https://github.com/Shruti00001/E-commerce-Sales-Dashboard-Inspired-by-Amazon)**  
   *Analyzed reporting survey responses from 1,200 respondents to uncover reporting challenges, tool usage across regions, and monthly reporting bandwidth.*  
   <br/>
-<img src="assets/amazon-survey.jpg" alt="Amazon Sales Reporting Survey Dashboard" width="100%" />
+  <img src="./assets/amazon-survey.png" alt="Amazon Sales Reporting Survey Dashboard" width="100%" />
 
 * 📢 **[AdPulse: Marketing Campaign Performance Tracker](https://github.com/Shruti00001/AdPulse-Multi-Channel-Marketing-ROI-Tracker)**  
   *Multi-channel marketing ROI tracker evaluating ₹185M revenue generated against ₹124M ad spend across Display, Social Media, Email, Search, and Influencer channels.*  
   <br/>
-  <img src="assets/adpulse.jpg" alt="AdPulse Campaign Performance Dashboard" width="100%" />
+  <img src="./assets/adpulse.png" alt="AdPulse Campaign Performance Dashboard" width="100%" />
 
 * 🎵 **[Music Trends & Popularity Analysis](https://github.com/Shruti00001/Music-Trends)**  
   *Exploratory data analysis across 9,800+ track entries to evaluate genre popularity distributions, audio tempos, and streaming platform benchmarks.*  
   <br/>
-  <img src="assets/music-trends.jpg" alt="Music Trends Dashboard" width="100%" />
+  <img src="./assets/music-trends.png" alt="Music Trends Dashboard" width="100%" />
 
 * 🔍 **[Product Research & Excel Structuring](https://github.com/Shruti00001/Product-research-and-Excel-structuring)**  
   *Cross-platform market analysis comparing brand performance, ratings, and price benchmarks across Amazon, Flipkart, Myntra, and Nykaa.*  
   <br/>
-  <img src="assets/product-research.jpg" alt="Product Research Dashboard" width="100%" />
+  <img src="./assets/product-research.png" alt="Product Research Dashboard" width="100%" />
 
 * 📉 **[Customer Churn Prediction](https://github.com/Shruti00001/Customer-churn-prediction)**  
   *Predictive analytics project built with Python and Pandas to analyze user churn drivers and retention opportunities.*
